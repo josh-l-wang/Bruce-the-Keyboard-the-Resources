@@ -38,7 +38,7 @@ Vial firmware available in the central Vial repo: [link](https://github.com/vial
 - blue soldermask
 
 ## Bruce le Clavier
-Bruce le Clavier est une version de « Bruce the Keyboard » divisée, créé par jlw. On peut ajouter un 35ème clé ou bien un encodeur rotatif au centre de Bruce le Clavier. Parfois, on l'appelle « le Bruce. »
+Bruce le Clavier est une version de « Bruce the Keyboard » divisée, créé par jlw. On peut ajouter une 35ème touche ou bien un encodeur rotatif au centre de Bruce le Clavier. Parfois, on l'appelle « le Bruce. »
 ![rendre du bruce PCB avant](/images/le%20bruce%20avant.png)
 ![rendre du bruce PCB verso](/images/le%20bruce%20verso.png)
 
