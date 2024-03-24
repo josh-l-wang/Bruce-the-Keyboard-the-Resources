@@ -3,6 +3,7 @@
 This repository serves to document the changes and developments between the revisions as they have progressed, as well as to provide end-users with the necessary CAD files to make cases and plates as they see fit. To minimize confusion between the versions, resources for only the most recent versions are available here.
 
 ![photo of bruce v3 PCB](/images/photo%20bruce%20v3%20pcb.png)
+![KLE of bruce and brian](/images/the%20KLEs.png)
 
 ## Bruce the Keyboard
 Bruce the Keyboard is a 34-key column staggered keyboard (not a human). The original layout was created by [whydobearsxplod](https://github.com/gleorepo). The original PCB was created by jlw (me) and debuted in 2024 with a small run of 15 PCBs.
